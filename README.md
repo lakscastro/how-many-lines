@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-22272E?&style=for-the-badge&logo=kotlin&logoColor=9966FF">
-  <img src="https://img.shields.io/badge/Kotlin-22272E?&style=for-the-badge&logo=kotlin&logoColor=9966FF">
   <img src="https://img.shields.io/badge/Javascript-22272E?style=for-the-badge&logo=javascript&logoColor=EFD81D">
   <img src="https://img.shields.io/badge/Typescript-22272E?style=for-the-badge&logo=typescript&logoColor=2F74C0">
   <img src="https://img.shields.io/badge/AWS-22272E?style=for-the-badge&logo=amazon&logoColor=E95F20">
