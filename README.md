@@ -83,6 +83,8 @@ To add your GitHub stats here, just auth your account using the application OAut
 <br>
 <br>
 
+<samp>
+
 <h2 align="center">
   Open Source
 </h2>
@@ -93,3 +95,5 @@ To add your GitHub stats here, just auth your account using the application OAut
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51419598/147527527-ea501436-1043-410b-ba15-978c6424eb17.png" width="35" />
 </p>
+
+</samp>
