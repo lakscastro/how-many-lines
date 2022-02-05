@@ -4,7 +4,7 @@
 <samp><h6 align="center">#tool, #cli, #serverless</h6></samp>
 <samp><h1 align="center">How Many Lines</h1></samp>
 
-<samp><h6 align="center">A Open Source CLI/Server/Workflow/Library to get line count of all GitHub repositories of a specific account</h6></samp>
+<h6 align="center"><samp>A Open Source CLI/Server/Workflow/Library to get line count of all GitHub repositories of a specific account</samp></h6>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-22272E?&style=for-the-badge&logo=kotlin&logoColor=9966FF">
