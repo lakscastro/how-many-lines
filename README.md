@@ -49,6 +49,14 @@ The link that you can use to [authenticate is this one](https://github.com/login
 
 Software always can be improved, so fill a issue to point where we can do it! Thanks.
 
+## Support
+
+If you have ideas to share, bugs to report or need support, you can either open an issue or join our Discord server
+
+<a href="https://discord.gg/86GDERXZNS">
+  <kbd><img src="https://discordapp.com/api/guilds/771498135188799500/widget.png?style=banner2" alt="Discord Banner"/></kbd>
+</a>
+
 ## Add your GitHub stats
 
 To add your GitHub stats here, just auth your account using the application OAuth screen link:
